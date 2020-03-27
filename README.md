@@ -1,8 +1,7 @@
 # Create-First-ASP.NET-MVC-Database-Code-First
 There is the source code of the Code First Approach in Entity Framework in Asp.net MVC. After going through this you will be able to understand and know how to implement an MVC web app with Entity Framework Database code first.
 
-# Create-First-ASP.NET-MVC-Database-Code-First Video on Youtube
-https://www.youtube.com/watch?v=YHNfdAb57SM
+# Create-First-ASP.NET-MVC-Database-Code-First Video on Youtube: https://www.youtube.com/watch?v=YHNfdAb57SM
 
 # Used Technologies & Tools for this example project:
 - Entity Framework 6
@@ -30,3 +29,5 @@ https://www.youtube.com/watch?v=YHNfdAb57SM
 - How to learn MVC by example?
 - Learning MVC .Net by example project.
 - Code-First Approach With ASP.NET MVC Framework
+
+# Created by: ChienVH - Email: chien.vh@gmail.com
